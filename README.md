@@ -1,2 +1,2 @@
 # openweb
-opentools is a web based applicationn develop and design by richard gallego
+openweb is a web based applicationn developed and design by richard gallego
